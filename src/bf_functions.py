@@ -16,7 +16,7 @@ Revisions:
 \n"""
 
 import corr, time, sys, numpy, os, logging, katcp, struct, construct, socket
-import spead64_48 as spead
+# import spead64_48 as spead
 import inspect
 
 class fbfException(Exception):

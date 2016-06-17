@@ -9,7 +9,7 @@
 
 import threading
 import numpy as np
-import spead64_48 as spead
+# import spead64_48 as spead
 import logging
 import sys
 import time

@@ -52,7 +52,7 @@ Revisions:
 \n"""
 
 import corr, time, sys, numpy, logging, struct, construct, socket, os
-import spead64_48 as spead
+# import spead64_48 as spead
 
 CORR_MODE_WB = 'wbc'
 CORR_MODE_NB = 'nbc'
